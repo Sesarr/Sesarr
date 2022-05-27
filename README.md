@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sesarr
-- 👀 I’m interested in vespa, car, and automotive industry
-- 🌱 I’m currently learning automotive industry
+- 👀 I’m interested in vespa, car, and automotive modification
 - 📫 How to reach me find me at gmaps
 
 <!---
